@@ -60,6 +60,7 @@
 	"Tel Aviv": {"count": 1, "latitude": 32.0804808, "longitude": 34.7805274}, 
 	"Princeton, NJ": {"count": 1, "latitude": 40.3492744, "longitude": -74.6592958}, 
 	"Rio de Janeiro": {"count": 1, "latitude": -22.9110137, "longitude": -43.2093727}, 
+	"Singapore": {"count": 1, "latitude": 1.2904527, "longitude": 103.852038},
 	"Vancouver, BC": {"count": 2, "latitude": 49.2608944, "longitude": -123.1139383}, 
 	"Denver, CO": {"count": 2, "latitude": 39.7391536, "longitude": -104.9847034}, 
 	"Ciudad de M\\u00e9xico": {"count": 1, "latitude": 19.4325301, "longitude": -99.1332102}, 
